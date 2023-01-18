@@ -1,13 +1,13 @@
 # Description
 
-In this project I use the Aave DeFi protocol to deposit, borrow and repay the stable coin DAI. The borrow/lend functionality is a core component of the DeFi. It is a clone of freeCodeCamp.com
+In this project I use the Aave DeFi protocol to deposit, borrow and repay the stable coin DAI. The borrow / lend functionality is a core component of DeFi. This is a clone of freeCodeCamp.com
 
 ### Tools
 
 - Alchemy (web3 deployment platform) to use a forking chain in my local network.
 - The ERC20 token standard interface to approve the transactions.
 - The AggregatorV3 interface to get the DAI price feed.
-- Aave - LendinPool Solidity contract
+- Aave - LendinPool Solidity contract.
 
 ## Implementation
 
